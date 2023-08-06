@@ -1,6 +1,4 @@
 # Titanic_Classification
-Sure, here's a sample README file that you can use for your Titanic Survival Prediction project on GitHub. Remember to customize it further with your project-specific details and any additional information you'd like to include.
-
 ---
 
 # Titanic Survival Prediction
